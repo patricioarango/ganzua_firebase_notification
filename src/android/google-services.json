@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1071912290900",
+    "firebase_url": "https://ganzua-eea1d.firebaseio.com",
+    "project_id": "ganzua-eea1d",
+    "storage_bucket": "ganzua-eea1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071912290900:android:869206c19c41f246",
+        "android_client_info": {
+          "package_name": "org.patricioarango.ganzuaforalrio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071912290900-3qmnrom1qg0hgjk3j6cd9evv893gauma.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1071912290900-qjha7ef0f2rl19uetv14pvtci9b5tcao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyB3o8TeLHTGH25pMGf1WjjIqW9T_Z2F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
